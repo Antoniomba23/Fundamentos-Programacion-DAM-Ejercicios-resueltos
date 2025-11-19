@@ -14,8 +14,8 @@ Este repositorio contiene ejercicios de fundamentos de programación DAM organiz
 
 
 - **EJERCICIOS CON VECTORES I**: Contiene ejercicios relacionados con vectores, incluyendo:
-    - `ejercicio_1.py`: Generación de boletos de Bonoloto sin usar funciones.
-    - `ejercicio_2.py`: Simulación de una máquina expendedora usando funciones.
+    - `ejercicio_1.py`: Generación de boletos de Bonoloto.
+    - `ejercicio_2.py`: Simulación de una máquina expendedora.
 
 
 - **EJERCICIOS CON VECTORES II**: Ejercicios con vectores.
